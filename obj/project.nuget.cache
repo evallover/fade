@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y2OYsYH+pxEzUc4317mBdPfoCxb6ouvwTnwPXFFSL7riHK6+oodOO1Q9Ibvk8OoLp27dSmVA1aYpZGnWtbQQrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\учеба\\fade\\fade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.12\\microsoft.netcore.app.host.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\MSI\учеба\fade\bin\Debug\net6.0\fade.exe
+C:\Users\MSI\учеба\fade\bin\Debug\net6.0\fade.deps.json
+C:\Users\MSI\учеба\fade\bin\Debug\net6.0\fade.runtimeconfig.json
+C:\Users\MSI\учеба\fade\bin\Debug\net6.0\fade.dll
+C:\Users\MSI\учеба\fade\bin\Debug\net6.0\fade.pdb
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.csproj.AssemblyReference.cache
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.AssemblyInfoInputs.cache
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.AssemblyInfo.cs
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.csproj.CoreCompileInputs.cache
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.dll
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\refint\fade.dll
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.pdb
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\fade.genruntimeconfig.cache
+C:\Users\MSI\учеба\fade\obj\Debug\net6.0\ref\fade.dll
