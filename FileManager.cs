@@ -12,6 +12,7 @@ namespace fade
             kp += filepanel.Key;
             filepanel.Borders();
             Console.SetCursorPosition(1, 18);
+            Console.WriteLine("-------------------------------------------------------------------");
             Console.WriteLine("Сделайте выбор, управляя стрелками вверх-вниз, нажмите Enter.\n" +
                 "Для того, чтобы вернуться на папку выше, нажмите ESC.\n" +
                 "Чтобы выйти, нажмите F2.");
